@@ -14,7 +14,7 @@
 <ol>
 <li>4,29 segundos</li>
 <li>2,41 segundos</li>
-<li>2,60</li>
+<li>2,60 segundos</li>
 </ol>
 <h2>Proyecto 3</h2>
 <p>Instalado  ModernHttpClient, nada configurado  </p>
